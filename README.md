@@ -1,8 +1,10 @@
 # Snake Gemini 🐍
 
-这是一个使用 Python 和 Pygame 开发的经典贪吃蛇游戏。该项目由 Gemini AI 辅助完成，涵盖了从项目规划、编码、测试到最终打包的全过程。
+这是一个使用 Python 和 Pygame 开发的经典贪吃蛇游戏。
 
-![Gameplay Screenshot](https://i.imgur.com/9g7E4tH.png)  <!-- 我无法实际截图，这里用一个占位符链接 -->
+## quick start
+
+在release处下载.exe文件，点击即玩。
 
 ## ✨ 功能特性
 
